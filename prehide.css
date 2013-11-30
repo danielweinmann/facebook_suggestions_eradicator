@@ -1,0 +1,6 @@
+/* This hides the notifications before the JS kicks in */
+
+#jewelContainer
+{
+	display: none !important;
+}
