@@ -1,6 +1,6 @@
-/* This hides the notifications before the JS kicks in */
+/* This hides the suggestions before the JS kicks in */
 
-#jewelContainer
+#pagelet_ego_pane
 {
 	display: none !important;
 }
